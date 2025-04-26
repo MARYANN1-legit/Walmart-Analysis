@@ -57,7 +57,22 @@ GROUP BY CPI
 
 
 ### Results/FINDINGS
+Sales Trend
+- Sales have been decreasing over time, with a sales growth rate of -18.30%.
+- Total sales amount to $6.2 billion.
+
+Holiday Sales
+- Holidays positively impact weekly sales, with $505,229,551 in sales during holidays.
+
+Pricing and CPI Analysis
+- Fair price has no significant effect on weekly sales.
+- Consumer Price Index (CPI) has a minor effect on weekly sales.
+- 
 ### Recommendations
+1. Optimize sales strategies: Identify reasons for declining sales and adjust strategies to reverse the trend.
+2. Leverage holidays: Capitalize on holidays to boost sales, considering successful past promotions.
+3. Monitor CPI impact: Keep a close eye on CPI's effect on sales and adjust pricing strategies accordingly.
+   
 ### Limitations
 
 
