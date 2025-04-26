@@ -74,5 +74,11 @@ Pricing and CPI Analysis
 3. Monitor CPI impact: Keep a close eye on CPI's effect on sales and adjust pricing strategies accordingly.
    
 ### Limitations
+1. Limited external factor analysis: While the dataset includes some external factors like holidays, temperature, and unemployment, it may not capture other relevant factors like competitor activity, market trends, or seasonal events.
+
+2. Lack of product-level data: The dataset appears to focus on aggregate sales data, which might not provide insights into specific product performance or sales drivers.
+3. No customer-level analysis: Without customer-specific data, it's challenging to identify customer segments, preferences, or behaviors that influence sales.
+
+
 
 
