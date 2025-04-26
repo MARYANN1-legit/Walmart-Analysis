@@ -54,6 +54,8 @@ SELECT CPI, SUM(WEEKLY_SALES) AS TOTAL_SALES
 FROM [Walmart p2]
 GROUP BY CPI
 ~~~
+### [img2](https://github.com/user-attachments/assets/02a1e74d-1c53-42df-b993-76697ef48a35)
+
 
 
 ### Results/FINDINGS
